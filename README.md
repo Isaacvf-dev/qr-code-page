@@ -40,7 +40,7 @@ Building a card layout with a QR code component, practicing some html and css sk
 
 ### What I learned
 
-I got thinking if I should use <div> or <section>. Since <section> tag means that the content inside relates to a single theme, and <div> tag is used as a block part of the webpage and don't convey any particular meaning, I used the <section> tag.
+I got thinking if I should use div or section. Since section tag means that the content inside relates to a single theme, and div tag is used as a block part of the webpage and don't convey any particular meaning, I used the section tag.
 
 ```html
   <section class="container">
@@ -83,7 +83,7 @@ I'll study more about flexbox and grid. And responsive css as well.
 ## Author
 
 - Frontend Mentor - [@Isaacvf-dev](https://www.frontendmentor.io/profile/Isaacvf-dev)
-- LinkedIn - [Isaac Vieira](www.linkedin.com/in/isaac-vieira-francelino)
+- LinkedIn - [Isaac Vieira](https://www.linkedin.com/in/isaac-vieira-francelino)
 
 
 
